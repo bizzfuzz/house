@@ -1,0 +1,739 @@
+return {
+-- Table: {1}
+{
+   ["tiles"]="house.png",
+   ["prefs"]={2},
+   ["layers"]={3},
+   ["velx"]=1.8562248693792e-39,
+   ["yoffset"]=0,
+   ["sprites"]={4},
+   ["tools"]={5},
+   ["cam"]={6},
+   ["xoffset"]=0,
+   ["currentlayer"]=3,
+   ["currentsprite"]=25,
+   ["name"]="office",
+   ["quads"]={7},
+},
+-- Table: {2}
+{
+   ["width"]=5,
+   ["x"]=0,
+   ["scale"]=1,
+   ["y"]=0,
+   ["theight"]="128",
+   ["height"]=4,
+   ["twidth"]="128",
+},
+-- Table: {3}
+{
+   {8},
+   {9},
+   {10},
+},
+-- Table: {4}
+{
+   ["buttons"]={11},
+   ["selected"]={12},
+},
+-- Table: {5}
+{
+   ["buttons"]={13},
+   ["layers"]={14},
+   ["layerchange"]=false,
+   ["col"]=false,
+   ["currentlayer"]=2,
+   ["row"]=false,
+   ["layeradd"]=false,
+   ["erase"]=false,
+},
+-- Table: {6}
+{
+   ["scalex"]=1,
+   ["x"]=0,
+   ["y"]=0,
+   ["rotation"]=0,
+   ["scaley"]=1,
+   ["speed"]=100,
+},
+-- Table: {7}
+{
+},
+-- Table: {8}
+{
+   ["tiles"]={15},
+   ["prefs"]={16},
+   ["drawx"]=640,
+   ["drawy"]=512,
+   ["show"]=true,
+},
+-- Table: {9}
+{
+   ["tiles"]={17},
+   ["prefs"]={18},
+   ["drawx"]=640,
+   ["drawy"]=512,
+   ["show"]=true,
+},
+-- Table: {10}
+{
+   ["tiles"]={19},
+   ["prefs"]={2},
+   ["drawx"]=640,
+   ["drawy"]=512,
+   ["show"]=true,
+},
+-- Table: {11}
+{
+   {20},
+   {21},
+   {22},
+   {23},
+   {24},
+   {25},
+   {26},
+   {27},
+   {28},
+   {29},
+   {30},
+   {31},
+   {32},
+   {33},
+   {34},
+   {35},
+   {36},
+   {37},
+   {38},
+   {39},
+   {40},
+   {41},
+   {42},
+   {43},
+   {44},
+   {45},
+   {46},
+   {47},
+   {48},
+   {49},
+   {50},
+   {51},
+   {52},
+   {53},
+   {54},
+   {55},
+   {56},
+   {57},
+   {58},
+   {59},
+},
+-- Table: {12}
+{
+   true,
+   25,
+},
+-- Table: {13}
+{
+   {60},
+   {61},
+   {62},
+   {63},
+},
+-- Table: {14}
+{
+   {64},
+   {65},
+   {66},
+},
+-- Table: {15}
+{
+   {67},
+   {68},
+   {69},
+   {70},
+},
+-- Table: {16}
+{
+   ["width"]=5,
+   ["x"]=0,
+   ["scale"]=1,
+   ["y"]=0,
+   ["theight"]="128",
+   ["height"]=4,
+   ["twidth"]="128",
+},
+-- Table: {17}
+{
+   {71},
+   {72},
+   {73},
+   {74},
+},
+-- Table: {18}
+{
+   ["width"]=5,
+   ["x"]=0,
+   ["scale"]=1,
+   ["y"]=0,
+   ["theight"]="128",
+   ["height"]=4,
+   ["twidth"]="128",
+},
+-- Table: {19}
+{
+   {75},
+   {76},
+   {77},
+   {78},
+},
+-- Table: {20}
+{
+   ["selected"]=false,
+   ["x"]=-1675,
+   ["toggled"]=false,
+   ["y"]=582,
+   ["highlight"]=false,
+   ["height"]=133,
+   ["width"]=133,
+},
+-- Table: {21}
+{
+   ["selected"]=false,
+   ["x"]=-1541,
+   ["toggled"]=false,
+   ["y"]=582,
+   ["highlight"]=false,
+   ["height"]=133,
+   ["width"]=133,
+},
+-- Table: {22}
+{
+   ["selected"]=false,
+   ["x"]=-1407,
+   ["toggled"]=false,
+   ["y"]=582,
+   ["highlight"]=false,
+   ["height"]=133,
+   ["width"]=133,
+},
+-- Table: {23}
+{
+   ["selected"]=false,
+   ["x"]=-1273,
+   ["toggled"]=false,
+   ["y"]=582,
+   ["highlight"]=false,
+   ["height"]=133,
+   ["width"]=133,
+},
+-- Table: {24}
+{
+   ["selected"]=false,
+   ["x"]=-1139,
+   ["toggled"]=false,
+   ["y"]=582,
+   ["highlight"]=false,
+   ["height"]=133,
+   ["width"]=133,
+},
+-- Table: {25}
+{
+   ["selected"]=false,
+   ["x"]=-1005,
+   ["toggled"]=false,
+   ["y"]=582,
+   ["highlight"]=false,
+   ["height"]=133,
+   ["width"]=133,
+},
+-- Table: {26}
+{
+   ["selected"]=false,
+   ["x"]=-871,
+   ["toggled"]=false,
+   ["y"]=582,
+   ["highlight"]=false,
+   ["height"]=133,
+   ["width"]=133,
+},
+-- Table: {27}
+{
+   ["x"]=-737,
+   ["y"]=582,
+   ["height"]=133,
+   ["width"]=133,
+},
+-- Table: {28}
+{
+   ["selected"]=false,
+   ["x"]=-603,
+   ["toggled"]=false,
+   ["y"]=582,
+   ["highlight"]=false,
+   ["height"]=133,
+   ["width"]=133,
+},
+-- Table: {29}
+{
+   ["x"]=-469,
+   ["toggled"]=false,
+   ["y"]=582,
+   ["highlight"]=false,
+   ["height"]=133,
+   ["width"]=133,
+},
+-- Table: {30}
+{
+   ["x"]=-335,
+   ["toggled"]=false,
+   ["y"]=582,
+   ["highlight"]=false,
+   ["height"]=133,
+   ["width"]=133,
+},
+-- Table: {31}
+{
+   ["x"]=-201,
+   ["toggled"]=false,
+   ["y"]=582,
+   ["highlight"]=false,
+   ["height"]=133,
+   ["width"]=133,
+},
+-- Table: {32}
+{
+   ["x"]=-66.999999999993,
+   ["toggled"]=false,
+   ["y"]=582,
+   ["highlight"]=false,
+   ["height"]=133,
+   ["width"]=133,
+},
+-- Table: {33}
+{
+   ["x"]=67.000000000008,
+   ["toggled"]=false,
+   ["y"]=582,
+   ["highlight"]=false,
+   ["height"]=133,
+   ["width"]=133,
+},
+-- Table: {34}
+{
+   ["x"]=201,
+   ["toggled"]=false,
+   ["y"]=582,
+   ["highlight"]=false,
+   ["height"]=133,
+   ["width"]=133,
+},
+-- Table: {35}
+{
+   ["x"]=335,
+   ["toggled"]=false,
+   ["y"]=582,
+   ["highlight"]=false,
+   ["height"]=133,
+   ["width"]=133,
+},
+-- Table: {36}
+{
+   ["selected"]=false,
+   ["x"]=469,
+   ["toggled"]=false,
+   ["y"]=582,
+   ["highlight"]=false,
+   ["height"]=133,
+   ["width"]=133,
+},
+-- Table: {37}
+{
+   ["x"]=603,
+   ["toggled"]=false,
+   ["y"]=582,
+   ["highlight"]=false,
+   ["height"]=133,
+   ["width"]=133,
+},
+-- Table: {38}
+{
+   ["x"]=737,
+   ["toggled"]=false,
+   ["y"]=582,
+   ["highlight"]=false,
+   ["height"]=133,
+   ["width"]=133,
+},
+-- Table: {39}
+{
+   ["x"]=871,
+   ["toggled"]=false,
+   ["y"]=582,
+   ["highlight"]=false,
+   ["height"]=133,
+   ["width"]=133,
+},
+-- Table: {40}
+{
+   ["selected"]=false,
+   ["x"]=1005,
+   ["toggled"]=false,
+   ["y"]=582,
+   ["highlight"]=false,
+   ["height"]=133,
+   ["width"]=133,
+},
+-- Table: {41}
+{
+   ["x"]=1139,
+   ["toggled"]=false,
+   ["y"]=582,
+   ["highlight"]=false,
+   ["height"]=133,
+   ["width"]=133,
+},
+-- Table: {42}
+{
+   ["x"]=1273,
+   ["toggled"]=false,
+   ["y"]=582,
+   ["highlight"]=false,
+   ["height"]=133,
+   ["width"]=133,
+},
+-- Table: {43}
+{
+   ["x"]=1407,
+   ["toggled"]=false,
+   ["y"]=582,
+   ["highlight"]=false,
+   ["height"]=133,
+   ["width"]=133,
+},
+-- Table: {44}
+{
+   ["selected"]=true,
+   ["x"]=1541,
+   ["toggled"]=false,
+   ["y"]=582,
+   ["highlight"]=false,
+   ["height"]=133,
+   ["width"]=133,
+},
+-- Table: {45}
+{
+   ["selected"]=false,
+   ["x"]=1675,
+   ["toggled"]=false,
+   ["y"]=582,
+   ["highlight"]=false,
+   ["height"]=133,
+   ["width"]=133,
+},
+-- Table: {46}
+{
+   ["x"]=1809,
+   ["toggled"]=false,
+   ["y"]=582,
+   ["highlight"]=false,
+   ["height"]=133,
+   ["width"]=133,
+},
+-- Table: {47}
+{
+   ["x"]=1943,
+   ["toggled"]=false,
+   ["y"]=582,
+   ["highlight"]=false,
+   ["height"]=133,
+   ["width"]=133,
+},
+-- Table: {48}
+{
+   ["selected"]=false,
+   ["x"]=2077,
+   ["toggled"]=false,
+   ["y"]=582,
+   ["highlight"]=false,
+   ["height"]=133,
+   ["width"]=133,
+},
+-- Table: {49}
+{
+   ["x"]=2211,
+   ["toggled"]=false,
+   ["y"]=582,
+   ["highlight"]=false,
+   ["height"]=133,
+   ["width"]=133,
+},
+-- Table: {50}
+{
+   ["x"]=2345,
+   ["toggled"]=false,
+   ["y"]=582,
+   ["highlight"]=false,
+   ["height"]=133,
+   ["width"]=133,
+},
+-- Table: {51}
+{
+   ["x"]=2479,
+   ["toggled"]=false,
+   ["y"]=582,
+   ["highlight"]=false,
+   ["height"]=133,
+   ["width"]=133,
+},
+-- Table: {52}
+{
+   ["x"]=2613,
+   ["toggled"]=false,
+   ["y"]=582,
+   ["highlight"]=false,
+   ["height"]=133,
+   ["width"]=133,
+},
+-- Table: {53}
+{
+   ["x"]=2747,
+   ["toggled"]=false,
+   ["y"]=582,
+   ["highlight"]=false,
+   ["height"]=133,
+   ["width"]=133,
+},
+-- Table: {54}
+{
+   ["x"]=2881,
+   ["toggled"]=false,
+   ["y"]=582,
+   ["highlight"]=false,
+   ["height"]=133,
+   ["width"]=133,
+},
+-- Table: {55}
+{
+   ["x"]=3015,
+   ["toggled"]=false,
+   ["y"]=582,
+   ["highlight"]=false,
+   ["height"]=133,
+   ["width"]=133,
+},
+-- Table: {56}
+{
+   ["x"]=3149,
+   ["toggled"]=false,
+   ["y"]=582,
+   ["highlight"]=false,
+   ["height"]=133,
+   ["width"]=133,
+},
+-- Table: {57}
+{
+   ["x"]=3283,
+   ["toggled"]=false,
+   ["y"]=582,
+   ["highlight"]=false,
+   ["height"]=133,
+   ["width"]=133,
+},
+-- Table: {58}
+{
+   ["x"]=3417,
+   ["toggled"]=false,
+   ["y"]=582,
+   ["highlight"]=false,
+   ["height"]=133,
+   ["width"]=133,
+},
+-- Table: {59}
+{
+   ["x"]=3551,
+   ["toggled"]=false,
+   ["y"]=582,
+   ["highlight"]=false,
+   ["height"]=133,
+   ["width"]=133,
+},
+-- Table: {60}
+{
+   ["width"]=30,
+   ["toggled"]=false,
+   ["y"]=5,
+   ["label"]="r",
+   ["selected"]=false,
+   ["x"]=1165,
+   ["highlight"]=false,
+   ["height"]=30,
+   ["inity"]=5,
+},
+-- Table: {61}
+{
+   ["width"]=30,
+   ["toggled"]=false,
+   ["y"]=5,
+   ["label"]="c",
+   ["selected"]=false,
+   ["x"]=1130,
+   ["highlight"]=false,
+   ["height"]=30,
+   ["inity"]=5,
+},
+-- Table: {62}
+{
+   ["width"]=30,
+   ["toggled"]=false,
+   ["y"]=5,
+   ["label"]="l",
+   ["selected"]=false,
+   ["x"]=1095,
+   ["highlight"]=false,
+   ["height"]=30,
+   ["inity"]=5,
+},
+-- Table: {63}
+{
+   ["width"]=30,
+   ["toggled"]=false,
+   ["y"]=5,
+   ["label"]="e",
+   ["selected"]=false,
+   ["x"]=1060,
+   ["highlight"]=false,
+   ["height"]=30,
+   ["inity"]=5,
+},
+-- Table: {64}
+{
+   ["width"]=30,
+   ["toggled"]=false,
+   ["y"]=40,
+   ["label"]=1,
+   ["selected"]=false,
+   ["x"]=1165,
+   ["highlight"]=false,
+   ["height"]=30,
+   ["inity"]=40,
+},
+-- Table: {65}
+{
+   ["width"]=30,
+   ["toggled"]=false,
+   ["y"]=75,
+   ["label"]=2,
+   ["selected"]=false,
+   ["x"]=1165,
+   ["highlight"]=false,
+   ["height"]=30,
+   ["inity"]=75,
+},
+-- Table: {66}
+{
+   ["width"]=30,
+   ["toggled"]=false,
+   ["y"]=110,
+   ["label"]=3,
+   ["selected"]=false,
+   ["x"]=1165,
+   ["highlight"]=false,
+   ["height"]=30,
+   ["inity"]=110,
+},
+-- Table: {67}
+{
+   1,
+   5,
+   5,
+   5,
+   1,
+},
+-- Table: {68}
+{
+   1,
+   5,
+   5,
+   5,
+   1,
+},
+-- Table: {69}
+{
+   1,
+   5,
+   5,
+   5,
+   1,
+},
+-- Table: {70}
+{
+   1,
+   5,
+   5,
+   5,
+   1,
+},
+-- Table: {71}
+{
+   2,
+   6,
+   6,
+   6,
+   7,
+},
+-- Table: {72}
+{
+   3,
+   false,
+   false,
+   false,
+   4,
+},
+-- Table: {73}
+{
+   2,
+   6,
+   6,
+   6,
+   7,
+},
+-- Table: {74}
+{
+   3,
+   false,
+   false,
+   false,
+   4,
+},
+-- Table: {75}
+{
+   false,
+   false,
+   false,
+   false,
+   false,
+},
+-- Table: {76}
+{
+   false,
+   26,
+   25,
+   29,
+   21,
+},
+-- Table: {77}
+{
+   false,
+   false,
+   false,
+   false,
+   false,
+},
+-- Table: {78}
+{
+   false,
+   false,
+   false,
+   false,
+   9,
+},
+}
